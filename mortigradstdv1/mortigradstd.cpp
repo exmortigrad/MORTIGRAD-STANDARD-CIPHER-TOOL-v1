@@ -73,7 +73,7 @@ string encode(const string & input)
         {
             switch (letter)
             {
-            case 'A': EncodedOutput += "80"; break;
+            case 'J': EncodedOutput += "80"; break;
             case 'K': EncodedOutput += "88"; break;
             case 'L': EncodedOutput += "96"; break;
             case 'M': EncodedOutput += "104"; break;
